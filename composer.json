@@ -1,0 +1,19 @@
+{
+    "name": "stejkeu/consolio",
+    "description": "PHP Consolio client",
+    "require": {
+        "wisembly/elephant.io": "~3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakub Stejskal",
+            "email": "jakub@jakub-stejskal.cz"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Consolio": "src/"
+        }
+    }
+}
